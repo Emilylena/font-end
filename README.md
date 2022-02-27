@@ -1,1 +1,1 @@
-# this is the homework of a front end course
+# front end relatives will be here
